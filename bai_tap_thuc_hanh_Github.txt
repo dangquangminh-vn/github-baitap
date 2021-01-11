@@ -1,0 +1,17 @@
+=========================
+Bài tập thực hành Github
+=========================
+1. Tạo 3 nhánh develop, feature/minh, feature/hai
+2.
+Tạo 1 file develop_note.txt cho nhánh develop
+Tạo 1 file login.html cho nhánh feature/minh
+Tạo 1 file logout.html cho nhánh feature/hai
+3. Merge code về develop để test
+4. OK thì merge về nhánh Master
+
+
+
+
+
+
+

@@ -1,3 +1,8 @@
 Day la nhanh develop note.txt
-...
+1. Ngôn ngữ lập trình java
+2. Ngôn ngữ lập trình c#
+3. Ngôn ngữ lập trình php
+4. Ngôn ngữ lập trình ASP.NET
+5. Ngôn ngữ lập trình Visual Basic
+
 
